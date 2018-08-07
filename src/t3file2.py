@@ -9,3 +9,10 @@ def module():
     print()
 
 module()
+
+
+def anothermodule():
+    print()
+    
+anothermodule()
+
